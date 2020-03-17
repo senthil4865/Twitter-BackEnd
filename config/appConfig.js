@@ -5,7 +5,7 @@ appConfig.port=3000;
 appConfig.allowedCorsOrigin='*';
 appConfig.env="dev";
 appConfig.db={
-    uri:'mongodb://localhost:27017/Twitter-Clone'
+    uri:'mongodb://database/Twitter-Clone'
 }
 appConfig.apiVersion='/api/v1';
 appConfig.secret='senthil';
